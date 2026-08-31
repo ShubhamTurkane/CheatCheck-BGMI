@@ -1,0 +1,74 @@
+[
+  {
+    "feature": "Matches_Played",
+    "importance": 0.0
+  },
+  {
+    "feature": "Wins",
+    "importance": 0.0
+  },
+  {
+    "feature": "Top10_Finishes",
+    "importance": 0.0
+  },
+  {
+    "feature": "Total_Kills",
+    "importance": 0.0
+  },
+  {
+    "feature": "Highest_Kills_Single_Match",
+    "importance": 0.0
+  },
+  {
+    "feature": "Total_Damage",
+    "importance": 0.0
+  },
+  {
+    "feature": "Headshot_Kills",
+    "importance": 0.0
+  },
+  {
+    "feature": "Shots_Fired",
+    "importance": 0.0
+  },
+  {
+    "feature": "Shots_Hit",
+    "importance": 0.0
+  },
+  {
+    "feature": "Total_Assists",
+    "importance": 0.0
+  },
+  {
+    "feature": "Win_Ratio",
+    "importance": 0.0
+  },
+  {
+    "feature": "Top10_Ratio",
+    "importance": 0.0
+  },
+  {
+    "feature": "KD_Ratio",
+    "importance": 0.0
+  },
+  {
+    "feature": "Avg_Kills_Per_Match",
+    "importance": 0.0
+  },
+  {
+    "feature": "Avg_Damage_Per_Match",
+    "importance": 0.0
+  },
+  {
+    "feature": "Headshot_Ratio",
+    "importance": 0.0
+  },
+  {
+    "feature": "Accuracy",
+    "importance": 0.0
+  },
+  {
+    "feature": "Mode_Code",
+    "importance": 0.0
+  }
+]

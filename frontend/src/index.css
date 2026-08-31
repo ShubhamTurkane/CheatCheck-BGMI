@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: Inter, ui-sans-serif, system-ui, sans-serif;
+  color: #172019;
+  background: #F5F7F4;
+}
+
+html, body, #root {
+  min-height: 100%;
+  margin: 0;
+}
+
+body {
+  background:
+    radial-gradient(circle at 10% 0%, rgba(92,122,41,.08), transparent 28%),
+    #F5F7F4;
+}
+
+* { box-sizing: border-box; }
+
+button, input {
+  font: inherit;
+}

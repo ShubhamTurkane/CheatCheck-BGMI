@@ -1,0 +1,2 @@
+Place BGMI_Career_Stats_Training_Data.xlsx in this folder.
+The dataset itself is not bundled because it was not uploaded with the code dump.
